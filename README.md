@@ -1,6 +1,9 @@
 # Data Engineer | Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Salesforce, Snowflake, PowerBI
+#### Technical Skills
+| Attempt | #1    | #2    |
+| :-----: | :---: | :---: |
+| Seconds | 301   | 283   |
 
 ## Education
 - M.S, Physics | Rockhurst University, Kansas City, MO (_May 2018_)									
