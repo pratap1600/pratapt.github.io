@@ -22,8 +22,8 @@
 - Flask Bootstrap Gunicorn CRUD application
 - Saleforce Data pipeline using python simple_salesforce package
 - Set Elastic Stack for proof of concept
-- Pyspark ETL scripts scheduled via Airflow for monitoring different apps
-_**Tools:**_ *Python, Pyspark, Airflow, Linux, AWS Cloud, SQL, Gitlab, Django, zeppelin, jupyter-notebook, docker,pytorch,Bert, Jira*
+- Pyspark ETL scripts scheduled via Airflow for monitoring different apps    
+**Tools:** *Python, Pyspark, Airflow, Linux, AWS Cloud, SQL, Gitlab, Django, zeppelin, jupyter-notebook, docker,pytorch,Bert, Jira*
 
 **Data Scientist @Office of Analytics & Institutional Effectiveness - Virginia Tech**   
 - Serve as liaison between Analytical & Institutional Effectiveness and Global Engagement (GE) to facilitate the transmission and analysis of institutional data between the two university entities. 
@@ -33,8 +33,8 @@ _**Tools:**_ *Python, Pyspark, Airflow, Linux, AWS Cloud, SQL, Gitlab, Django, z
 - Implemented Airflow Cluster in AWS for daily refresh of databases which feed to various dashboards. 
 - Proof of Concept – Apache Hudi on AWS EMRpotential losses
 - Re-engineered student census process from legacy SQR and SAS script to Pyspark (improved ETL process by 10 times)
-- Used amazon web services to pipeline and analyze student credit hour, research, philanthropy and enrollment data.
-_**Tools:**_ *Python, Pyspark, Airflow, Linux, SQL, Gitlab, Flask, PowerBI, jupyter-notebook, docker, pytorch,Bert, Wrike*
+- Used amazon web services to pipeline and analyze student credit hour, research, philanthropy and enrollment data.    
+**Tools:** *Python, Pyspark, Airflow, Linux, SQL, Gitlab, Flask, PowerBI, jupyter-notebook, docker, pytorch,Bert, Wrike*
 
 **Data Engineer Intern @Yotobites LLC** 
 - Extensively used Python, R, Secured Cloudera Hadoop Ecosystem Services , SQL and Linux.
@@ -42,7 +42,7 @@ _**Tools:**_ *Python, Pyspark, Airflow, Linux, SQL, Gitlab, Flask, PowerBI, jupy
 - Built google-playstore web-crawler  and Github Trending Scraper with data pipelining and EDA . 
 - Implemented Flume fail-over and load balancing.
 - Implemented Spark RDD transformation & action, Spark SQL, Spark Streaming and Spark Mlib
-- Protein Research data load to Hbase  
-_**Tools:**_ *Python, Pyspark, Hive, Sqoop, Flume, Scrapy, R, SQL, HBase, Tableau, zeppelin, jupyter-notebook, RStudio* 
+- Protein Research data load to Hbase     
+**Tools:** *Python, Pyspark, Hive, Sqoop, Flume, Scrapy, R, SQL, HBase, Tableau, zeppelin, jupyter-notebook, RStudio* 
 
 
