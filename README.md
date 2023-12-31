@@ -1,15 +1,21 @@
 # Data Engineer | Data Scientist
-**Professional Summary:**
-*Experienced Data Scientist with over 5 years of expertise in Data Analysis, Machine Learning, and Data Mining. Proficient in handling large structured and unstructured datasets, I excel in all aspects of the data science lifecycle, from acquisition to validation, predictive modeling, and web scraping. Skilled in implementing advanced Deep Learning Algorithms like Artificial Neural Networks and Recurrent Neural Networks using Python packages such as TensorFlow. Adept in data cleaning, engineering, and statistical modeling, with a strong grasp of diverse machine learning models and techniques. Extensive proficiency in Python libraries, NLP methods, relational databases, and big data tools, coupled with a talent for designing impactful visualizations using Tableau and Power BI. Proven track record of end-to-end NLP model development, deployment, and scalable production maintenance. Well-versed in monitoring and scheduling workflows using Airflow, Jenkins, and the AWS Ecosystem, showcasing a comprehensive skill set in the dynamic landscape of Data Science.*
+*Experienced  Data Engineer | Data Scientist with over 5 years of expertise in Data Analysis, Machine Learning, Data Mining and Data Pipelining. Proficient in handling large structured and unstructured datasets, I excel in all aspects of the data science lifecycle, from acquisition to validation, predictive modeling, and web scraping. Skilled in implementing advanced Deep Learning Algorithms like Artificial Neural Networks and Recurrent Neural Networks using Python packages such as TensorFlow. Adept in data cleaning, engineering, and statistical modeling, with a strong grasp of diverse machine learning models and techniques. Extensive proficiency in Python libraries, NLP methods, relational databases, and big data tools, coupled with a talent for designing impactful visualizations using Tableau and Power BI. Proven track record of end-to-end NLP model development, deployment, and scalable production maintenance. Well-versed in monitoring and scheduling workflows using Airflow, Jenkins, and the AWS Ecosystem, showcasing a comprehensive skill set in the dynamic landscape of Data Science.*
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, Salesforce, R, Pyspark, MATLAB
-
+## Technical Skills
+- Programming | Python , Pyspark, SQL, R, Shell Script, Matlab, Lua, Html
+Data Science
+- Statistical Inference, Bayesian Methods, A/B Testing, Time Series, NLP, Neural Network
+- Machine Learning | Supervised and Unsupervised, Regression and Classification, Clustering, PCA, Ensemble Methods
+- Tools | VS-Code, Dash, Git, Airflow, Linux, Tableau, PowerBI, Google Analytics, R-Markdown, Cloudera Manager, zeppelin, jupyter-notebook, docker, Talend, Snowflake
+- Big Data | Hadoop, Hive, Sqoop, Flume, Oozie, Spark, HBase
+- AWS Cloud | VPC, EC2, S3, Lambda, Cloudformation, Cloudwatch, SES, Glue, Athena, RDS, Beanstalk, EMR, Sagemaker, Comprehend, Data migration, Kinesis, Stepfunction, MWAA
+- Communication | Able to convey a technical message to non-technical colleagues
 
 ## Education
-- M.S, Physics | Rockhurst University, Kansas City, MO (_May 2018_)									
-- M.S., Physics	| Kansas State University, Manhattan, KS (_May 2016_)	 			        		
-- M.S., Physics | St. Joseph's College, Trichy, India (_May 2010_)
-- B.S., Physics | St. Xavier's College, Kathmandu, Nepal (_May 2010_)
+- MS in Business Intelligence and Analytics | Rockhurst University, Kansas City, MO (_May 2018_)					
+- MS Physics (Atomic Molecular Optics)	| Kansas State University, Manhattan, KS (_May 2016_) 			        		
+- M.Sc. Physics( Electronics Minor) | St. Joseph's College, Trichy, India (_May 2010_)
+- B.Sc. Physics  (Computer Sc. & Math Minor) | St. Xavier's College, Kathmandu, Nepal (_May 2008_)
 
 ## Work Experience
 **Senior Consultant - Data Engineer @Incapsulate LLC** 
@@ -28,6 +34,7 @@
 - Proof of Concept – Apache Hudi on AWS EMRpotential losses
 - Re-engineered student census process from legacy SQR and SAS script to Pyspark (improved ETL process by 10 times)
 - Used amazon web services to pipeline and analyze student credit hour, research, philanthropy and enrollment data.
+- **Tools:** *Python, Pyspark, Airflow, Linux, SQL, Gitlab, Flask, PowerBI, jupyter-notebook, docker, pytorch,Bert, Wrike*
 
 **Data Engineer Intern @Yotobites LLC** 
 - Extensively used Python, R, Secured Cloudera Hadoop Ecosystem Services , SQL and Linux.
