@@ -1,6 +1,6 @@
-# Data Scientist
+# Data Engineer | Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Salesforce, Snowflake, MATLAB, PowerBI
+#### Technical Skills: Python, SQL, AWS, Salesforce, Snowflake, PowerBI
 
 ## Education
 - M.S, Physics | Rockhurst University, Kansas City, MO (_May 2018_)									
@@ -9,7 +9,7 @@
 - B.S., Physics | St. Xavier's College, Kathmandu, Nepal (_May 2010_)
 
 ## Work Experience
-** Senior Consultant - Data Engineer @Incapsulate LLC
-** Data Scientist @Office of Analytics & Institutional Effectiveness - Virginia Tech
-** Data Engineer Intern @Yotobites LLC
+**Senior Consultant - Data Engineer @Incapsulate LLC**    
+**Data Scientist @Office of Analytics & Institutional Effectiveness - Virginia Tech**   
+**Data Engineer Intern @Yotobites LLC**    
 
