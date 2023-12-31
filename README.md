@@ -20,11 +20,11 @@
 - B.Sc. Physics  (Computer Sc. & Math Minor) | St. Xavier's College, Kathmandu, Nepal (_May 2008_)
 
 ## Work Experience
-**Data Analyst             Middle States Commission on Higher Education (Philadelphia, PA)               Sept 2023 – Present** 
-**Senior Consultant - Data Engineer             Incapsulate LLC (Washington DC)               Feb 2022 – May 2023** 
-**Data Scientist                     Office of Analytics & Institutional Effectiveness-Virginia Tech. (Blacksburg, VA)                Nov 2019 – Feb 2022**   
-**Big Data Engineer Intern                  Yotabites Consulting (Fairway,KS)                                          Oct. 2017 to Mar. 2018** 
-**Research Assistant                             James R. Macdonald Laboratory (Manhattan,KS)                   May 2012 to Dec. 2015**
+**Data Analyst | Middle States Commission on Higher Education (Philadelphia, PA) | Sept 2023 – Present**    
+**Senior Consultant - Data Engineer | Incapsulate LLC (Washington DC) | Feb 2022 – May 2023**     
+**Data Scientist | Office of Analytics & Institutional Effectiveness-Virginia Tech. (Blacksburg, VA) | Nov 2019 – Feb 2022**       
+**Big Data Engineer Intern | Yotabites Consulting (Fairway,KS) | Oct. 2017 to Mar. 2018**     
+**Research Assistant | James R. Macdonald Laboratory (Manhattan,KS) | May 2012 to Dec. 2015**    
 
 
 
