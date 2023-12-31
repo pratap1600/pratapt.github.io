@@ -8,7 +8,8 @@
 - Machine Learning | Supervised and Unsupervised, Regression and Classification, Clustering, PCA, Ensemble Methods
 - Tools | VS-Code, Dash, Git, Airflow, Linux, Tableau, PowerBI, Google Analytics, R-Markdown, Cloudera Manager, zeppelin, jupyter-notebook, docker, Talend, Snowflake
 - Big Data | Hadoop, Hive, Sqoop, Flume, Oozie, Spark, HBase
-- AWS Cloud | VPC, EC2, S3, Lambda, Cloudformation, Cloudwatch, SES, Glue, Athena, RDS, Beanstalk, EMR, Sagemaker, Comprehend, Data migration, Kinesis, Stepfunction, MWAA
+- AWS Cloud | VPC, EC2, S3, Lambda, Cloudformation, Cloudwatch, SES, Glue, Athena, RDS,Redshift, Beanstalk, EMR, Sagemaker, Comprehend, Data migration, Kinesis, Stepfunction, MWAA
+- Azure Cloud | Virtual Machines,Azure Storage, Azure SQL Database, Azure Databricks
 - Communication | Able to convey a technical message to non-technical colleagues
 
 ## Education
@@ -18,10 +19,11 @@
 - B.Sc. Physics  (Computer Sc. & Math Minor) | St. Xavier's College, Kathmandu, Nepal (_May 2008_)
 
 ## Work Experience
-**Data Analyst             Middle States Commission on Higher Education (Philadelphia, PA)               Feb 2022 – May 2023** 
+**Data Analyst             Middle States Commission on Higher Education (Philadelphia, PA)               Sept 2023 – Present** 
 **Senior Consultant - Data Engineer             Incapsulate LLC (Washington DC)               Feb 2022 – May 2023** 
 **Data Scientist                     Office of Analytics & Institutional Effectiveness-Virginia Tech. (Blacksburg, VA)                Nov 2019 – Feb 2022**   
 **Big Data Engineer Intern                  Yotabites Consulting (Fairway,KS)                                          Oct. 2017 to Mar. 2018** 
+**Research Assistant                             James R. Macdonald Laboratory (Manhattan,KS)                   May 2012 to Dec. 2015**
 
 
 
