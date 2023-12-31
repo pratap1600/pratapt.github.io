@@ -10,7 +10,10 @@
 
 ## Work Experience
 **Senior Consultant - Data Engineer @Incapsulate LLC 
+
 **Data Scientist @Office of Analytics & Institutional Effectiveness - Virginia Tech
+
 **Data Engineer Intern @Yotobites LLC
+
 
 ## Projects
