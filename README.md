@@ -3,8 +3,7 @@
 
 ## Technical Skills
 - Programming | Python , Pyspark, SQL, R, Shell Script, Matlab, Lua, Html
-Data Science
-- Statistical Inference, Bayesian Methods, A/B Testing, Time Series, NLP, Neural Network
+- Data Science | Statistical Inference, Bayesian Methods, A/B Testing, Time Series, NLP, Neural Network
 - Machine Learning | Supervised and Unsupervised, Regression and Classification, Clustering, PCA, Ensemble Methods
 - Tools | VS-Code, Dash, Git, Airflow, Linux, Tableau, PowerBI, Google Analytics, R-Markdown, Cloudera Manager, zeppelin, jupyter-notebook, docker, Talend, Snowflake
 - Big Data | Hadoop, Hive, Sqoop, Flume, Oozie, Spark, HBase
