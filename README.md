@@ -1,9 +1,11 @@
 # Data Engineer | Data Scientist
 
 #### Technical Skills
-| Attempt | #1    | #2    |
-| :-----: | :---: | :---: |
-| Seconds | 301   | 283   |
+| Name     | Age | Location      |
+|----------|-----|---------------|
+| John     | 25  | New York      |
+| Sarah    | 30  | Los Angeles   |
+| Ahmed    | 28  | London        |
 
 ## Education
 - M.S, Physics | Rockhurst University, Kansas City, MO (_May 2018_)									
