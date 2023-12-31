@@ -1,11 +1,7 @@
 # Data Engineer | Data Scientist
 
-#### Technical Skills
-| Name     | Age | Location      |
-__________________________________
-| John     | 25  | New York      |
-| Sarah    | 30  | Los Angeles   |
-| Ahmed    | 28  | London        |
+#### Technical Skills: Python, SQL, AWS, Snowflake, Salesforce, R, Pyspark, MATLAB
+
 
 ## Education
 - M.S, Physics | Rockhurst University, Kansas City, MO (_May 2018_)									
