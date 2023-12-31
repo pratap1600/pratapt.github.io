@@ -2,7 +2,7 @@
 
 #### Technical Skills
 | Name     | Age | Location      |
-|----------|-----|---------------|
+__________________________________
 | John     | 25  | New York      |
 | Sarah    | 30  | Los Angeles   |
 | Ahmed    | 28  | London        |
