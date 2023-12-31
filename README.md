@@ -9,7 +9,7 @@
 - B.S., Physics | St. Xavier's College, Kathmandu, Nepal (_May 2010_)
 
 ## Work Experience
-** Senior Consultant - Data Engineer @Incapsulate LLC    
-** Data Scientist @Office of Analytics & Institutional Effectiveness - Virginia Tech    
-** Data Engineer Intern @Yotobites LLC    
+**Senior Consultant - Data Engineer @Incapsulate LLC**    
+**Data Scientist @Office of Analytics & Institutional Effectiveness - Virginia Tech**   
+**Data Engineer Intern @Yotobites LLC**    
 
