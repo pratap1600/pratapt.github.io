@@ -29,7 +29,7 @@ Incapsulate LLC (Washington DC)
 _Feb 2022 – June 2023_    
   
 **Data Scientist**    
-Office of Analytics & Institutional Effectiveness-Virginia Tech. (Blacksburg, VA)    
+Office of Analytics & Institutional Effectiveness-Virginia Tech(Blacksburg, VA)    
 _Nov 2019 – Feb 2022_    
    
 **Big Data Engineer Intern**    
