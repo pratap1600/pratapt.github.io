@@ -21,15 +21,24 @@
 
 ## Work Experience
 **Data Analyst**    
-Middle States Commission on Higher Education (Philadelphia, PA) _Sept 2023 – Present_    
+Middle States Commission on Higher Education (Philadelphia, PA) 
+_Sept 2023 – Present_  
+  
 **Senior Consultant - Data Engineer**    
-Incapsulate LLC (Washington DC) _Feb 2022 – June 2023_    
+Incapsulate LLC (Washington DC) 
+_Feb 2022 – June 2023_  
+  
 **Data Scientist**    
-Office of Analytics & Institutional Effectiveness-Virginia Tech. (Blacksburg, VA) _Nov 2019 – Feb 2022_    
+Office of Analytics & Institutional Effectiveness-Virginia Tech. (Blacksburg, VA) 
+_Nov 2019 – Feb 2022_ 
+   
 **Big Data Engineer Intern**    
-Yotabites Consulting (Fairway,KS) _Oct. 2017 to Mar. 2018_    
+Yotabites Consulting (Fairway,KS) 
+_Oct. 2017 to Mar. 2018_ 
+   
 **Research Assistant**    
-James R. Macdonald Laboratory, Kansas State University (Manhattan,KS) _May 2012 to Dec. 2015_    
+James R. Macdonald Laboratory, Kansas State University (Manhattan,KS) 
+_May 2012 to Dec. 2015_    
    
 
 
