@@ -1,16 +1,16 @@
 # Data Engineer | Data Scientist
-*Experienced Data Engineer and Data Scientist with over 5 years of expertise in Data Analysis, Machine Learning, Deep Learning, and Data Pipelining. Proficient in handling large datasets, I excel across the entire data science lifecycle, from acquisition to web scraping. Skilled in implementing advanced Deep Learning Algorithms using Python packages like TensorFlow and Pytorch, my proficiency extends to data cleaning, engineering, and statistical modeling. Additionally, I bring extensive knowledge of Python libraries, NLP methods, relational databases, and big data tools, coupled with a talent for impactful visualizations using Tableau and Power BI. With a proven track record in end-to-end NLP model development and deployment, I am well-versed in monitoring and scheduling workflows using Airflow. Furthermore, I possess cloud computing expertise in both AWS and Azure, enhancing my ability to architect scalable solutions in diverse cloud environments.*
+*Experienced Data Engineer and Data Scientist with over 6 years of expertise in Data Analysis, Machine Learning, Deep Learning, and Data Pipelining. Proficient in handling large datasets, I excel across the entire data science lifecycle, from acquisition to web scraping. Skilled in implementing advanced Deep Learning Algorithms using Python packages like TensorFlow and Pytorch, my proficiency extends to data cleaning, engineering, and statistical modeling. Additionally, I bring extensive knowledge of Python libraries, NLP methods, relational databases, and big data tools, coupled with a talent for impactful visualizations using Tableau and Power BI. With a proven track record in end-to-end NLP model development and deployment, I am well-versed in monitoring and scheduling workflows using Airflow. Furthermore, I possess cloud computing expertise in both AWS and Azure, enhancing my ability to architect scalable solutions in diverse cloud environments.*
 
 ## Technical Skills
 - Programming | Python , Pyspark, SQL, R, Shell Script, Matlab, Lua, Html
 - Data Science | Statistical Inference, Bayesian Methods, A/B Testing, Time Series
-- Deep Learning | Reinforcement Learning, NLP, Neural Network, Transformer, Model Optimization and Hyperparameter Tuning,GPU Programming (e.g., CUDA), Distributed Computing
+- Deep Learning | Reinforcement Learning, NLP, Neural Network, Transformer, Model Optimization and Hyperparameter Tuning, GPU Programming, Distributed Computing
 - Machine Learning | Supervised and Unsupervised, Regression and Classification, Clustering, PCA, Ensemble Methods
 - Tools | VS-Code, Dash, Git, Airflow, Linux, Tableau, PowerBI, Google Analytics, R-Markdown, Cloudera Manager, zeppelin, jupyter-notebook, docker, Talend, Snowflake
 - Big Data | Hadoop, Hive, Sqoop, Flume, Oozie, Spark, HBase
 - Database | Microsoft SQL, MySQL, Postgres, Oracle, MongoDB, SnowFlake
 - AWS Cloud | VPC, EC2, S3, Lambda, Cloudformation, Cloudwatch, SES, Glue, Athena, RDS,Redshift, Beanstalk, EMR, Sagemaker, Comprehend, Data migration, Kinesis, Stepfunction, MWAA
-- Azure Cloud | Virtual Machines,Azure Storage, Azure SQL Database, Azure Databricks
+- Azure Cloud | Virtual Machines,Azure Storage, Azure SQL Database, Azure Databricks, Azure Data Factory, Azure Synapse
 - Communication | Able to convey a technical message to non-technical colleagues
 
 ## Education
